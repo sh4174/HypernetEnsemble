@@ -1,6 +1,4 @@
-# Hypernetwork-Ensemble Learning of Segmentation Probability for Medical Image Segmentation
-
-This repository contains the implementation of "Hypernetwork-Ensemble Learning of Segmentation Probability for Medical Image Segmentation with Ambiguous Labels"
+# Hypernet-Ensemble Learning of Segmentation Probability
 
 ## Requirements
 
