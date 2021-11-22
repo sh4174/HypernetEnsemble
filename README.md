@@ -19,7 +19,7 @@ Please see predict.py
 
 ## Note
 
-Improved ReadMe soon to come.
+Readme will be updated soon.
 
 ## Contact
 
