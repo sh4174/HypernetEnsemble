@@ -1,12 +1,14 @@
 # Hypernet-Ensemble Learning of Segmentation Probability for Medical Image Segmentation with Ambiguous Labels
 
+The implementation of Hypernet-Ensemble Learning of Segmentation Probability for Medical Image Segmentation with Ambiguous Labels. 
+
+We aim to improve the segmentation probability estimation of DL networks for medical image segmentation that often suffers from the ambiguity in human annotations and anatomical/pathological structures using the hypernetwork ensemble strategy with the varying Tversky loss. 
+
 ![Human Annotations of Ambiguous Stroke Lesions!](/figures/Git_AmbiguousAnnot.png "Ambiguous Label")
 
 ![Estimated Segmentation Probability Map!](/figures/Git_SegProbEst.png "Segmentation Probability Map")
 
 ![Segmentation Label Estimation with Different Threshold!](/figures/Git_SegProg_Thres.png "Segmentation Probability Thresholding")
-
-This repository contains the hypernetwork implementation of Hypernet-Ensemble Learning of Segmentation Probability for Medical Image Segmentation with Ambiguous Labels. 
 
 # Hypernetwork Architecture
 
