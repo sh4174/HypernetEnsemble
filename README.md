@@ -1,6 +1,6 @@
 # Hypernet-Ensemble Learning of Segmentation Probability for Medical Image Segmentation with Ambiguous Labels
 
-The implementation of Hypernet-Ensemble Learning of Segmentation Probability for Medical Image Segmentation with Ambiguous Labels. 
+The implementation of Hypernet-Ensemble Learning of Segmentation Probability for Medical Image Segmentation with Ambiguous Labels (<https://arxiv.org/abs/2112.06693>).
 
 We aim to improve the segmentation probability estimation of DL networks for medical image segmentation that often suffers from the ambiguity in human annotations and anatomical/pathological structures using the hypernetwork ensemble strategy with the varying Tversky loss. 
 
@@ -44,6 +44,18 @@ Please see train.py for setting up the network parameters and training configura
 Please see predict.py for inference.
 
 The network parameters need to be the same with a trained network. 
+
+# Citation
+
+	@misc{hong2021hypernetensemble,
+	      title={Hypernet-Ensemble Learning of Segmentation Probability for Medical Image Segmentation with Ambiguous Labels}, 
+	      author={Sungmin Hong and Anna K. Bonkhoff and Andrew Hoopes and Martin Bretzner and Markus D. Schirmer and Anne-Katrin Giese and Adrian V. Dalca and Polina Golland and Natalia S. Rost},
+	      year={2021},
+	      eprint={2112.06693},
+	      archivePrefix={arXiv},
+	      primaryClass={eess.IV}
+	} 
+
 
 # Contact
 
