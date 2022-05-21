@@ -61,4 +61,4 @@ The network parameters need to be the same with a trained network.
 
 Please contact Sungmin Hong ~(MGH, HMS <shong20@mgh.harvard.edu>)~ if you have questions on the codes or the paper. 
 
-Update 2022.03: I joined AWS ML Solution Lab. My new email address is <hsungmin@amazon.com>. 
+Update March 2022: I joined AWS ML Solution Lab. My new email address is <hsungmin@amazon.com>. 
